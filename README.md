@@ -1,9 +1,12 @@
 # Cek Pajak Kendaraan
 #### by Zero-Day.ID
 
+Bot ini bertujuan untuk mempermudah Masyarakat dalam melakukan Pengecekan Pajak Kendaraan berdasarkan Wilayah yang tersedia.
+
+### LINK TELEGRAM
 [@CekPajakKendaraanBot](https://t.me/CekPajakKendaraanBot)
 
-Cara Penggunaan BOT
+### Cara Penggunaan BOT
 
 ```bash
 Format: wilayah@nopol
