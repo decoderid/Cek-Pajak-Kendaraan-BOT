@@ -23,12 +23,12 @@ Contoh: jabar@D12345ABC
 | Jawa Barat | jabar | :heavy_check_mark: |
 | Yogyakarta | diy | :heavy_check_mark: |
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
-| Sulawesi Tenggara | sulteng | :heavy_check_mark: |
+| Sulawesi Tengah | sulteng | :heavy_check_mark: |
 | Jakarta | dki | :construction: |
 | Jawa Tengah | jateng | :construction: |
 | Jawa Timur | jatim | :construction: |
 | Kalimantan Timur | kaltim | :construction: |
-| Sulawesi barat | sulbar | :construction: |
+| Sulawesi Barat | sulbar | :construction: |
 
 ### Catatan
 
