@@ -3,6 +3,8 @@
 
 Bot ini bertujuan untuk mempermudah Masyarakat dalam melakukan Pengecekan Pajak Kendaraan berdasarkan Wilayah yang tersedia.
 
+![Bot Cek Pajak Kendaraan](https://img001.prntscr.com/file/img001/lVL2H2mfRP6YkwtwVeg6PQ.png)
+
 ### LINK TELEGRAM
 [@CekPajakKendaraanBot](https://t.me/CekPajakKendaraanBot)
 
