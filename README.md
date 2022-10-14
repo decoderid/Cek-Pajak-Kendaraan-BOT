@@ -34,3 +34,6 @@ Contoh: jabar@D12345ABC
 ### Catatan
 
 Silahkan gunakan bot ini sebagaimana mestinya
+
+### Donasi
+https://trakteer.id/decoderid/tip?quantity=1
