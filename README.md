@@ -26,9 +26,9 @@ Contoh: jabar@D12345ABC
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
 | Sulawesi Tengah | sulteng | :heavy_check_mark: |
 | Jakarta | dki | :construction: |
-| Jawa Tengah | jateng | :construction: |
+| Jawa Tengah | jateng | :heavy_check_mark: |
 | Jawa Timur | jatim | :construction: |
-| Kalimantan Timur | kaltim | :construction: |
+| Kalimantan Timur | kaltim | :heavy_check_mark: |
 | Sulawesi Barat | sulbar | :construction: |
 
 ### Catatan
