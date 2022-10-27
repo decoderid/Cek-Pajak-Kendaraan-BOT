@@ -28,11 +28,16 @@ Contoh: jabar@D12345ABC
 | Yogyakarta | diy | :heavy_check_mark: |
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
 | Sulawesi Tengah | sulteng | :heavy_check_mark: |
+| Sulawesi Barat | sulbar | :construction: |
+| Sulawesi Selatan | sulsel | :construction: |
+| Sulawesi Tenggara | sultra | :construction: |
+| Sulawesi Utara | sulut | :construction: |
 | Jakarta | dki | :construction: |
 | Jawa Tengah | jateng | :heavy_check_mark: |
 | Jawa Timur | jatim | :construction: |
 | Kalimantan Timur | kaltim | :heavy_check_mark: |
-| Sulawesi Barat | sulbar | :construction: |
+| Nusa Tenggara Barat | ntb | :heavy_check_mark: |
+| Nusa Tenggara Timur | ntb | :construction: |
 
 ### Catatan
 
