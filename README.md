@@ -39,6 +39,7 @@ Contoh: jabar@D12345ABC
 | Kalimantan Timur | kaltim | :heavy_check_mark: |
 | Nusa Tenggara Barat | ntb | :heavy_check_mark: |
 | Nusa Tenggara Timur | ntb | :construction: |
+| Papua | papua | :heavy_check_mark: |
 
 ### Catatan
 
