@@ -9,6 +9,9 @@ Bot ini bertujuan untuk mempermudah Masyarakat dalam melakukan Pengecekan Pajak 
 ### LINK TELEGRAM
 [@CekPajakKendaraanBot](https://t.me/CekPajakKendaraanBot)
 
+### LINK PLAYSTORE
+https://play.google.com/store/apps/details?id=id.zeroday.cpk&hl=id
+
 ### Cara Penggunaan BOT
 
 ```bash
