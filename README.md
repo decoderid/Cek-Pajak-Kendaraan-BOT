@@ -40,7 +40,7 @@ Contoh: jabar@D12345ABC
 | Nusa Tenggara Barat | ntb | :heavy_check_mark: |
 | Nusa Tenggara Timur | ntb | :construction: |
 | Papua | papua | :heavy_check_mark: |
-| Maluku Utara | malut | :havy_check_mark: |
+| Maluku Utara | malut | :heavy_check_mark: |
 
 ### Catatan
 
