@@ -24,6 +24,7 @@ Contoh: jabar@D12345ABC
 | Wilayah | Command | Status |
 | ------- | ------ | ------ |
 | Banten | banten | :heavy_check_mark: |
+| Jambi | jambi | :heavy_check_mark: |
 | Jawa Barat | jabar | :heavy_check_mark: |
 | Yogyakarta | diy | :heavy_check_mark: |
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
