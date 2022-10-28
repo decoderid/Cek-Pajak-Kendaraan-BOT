@@ -36,15 +36,15 @@ Contoh: jabar@D12345ABC
 | Lampung | lampung | :heavy_check_mark: |
 | Maluku Utara | malut | :heavy_check_mark: |
 | Nusa Tenggara Barat | ntb | :heavy_check_mark: |
-| Nusa Tenggara Timur | ntb | :construction: |
+| Nusa Tenggara Timur | ntt | :construction: |
 | Papua | papua | :heavy_check_mark: |
 | Sulawesi Tengah | sulteng | :heavy_check_mark: |
 | Sulawesi Utara | sulut | :heavy_check_mark: |
 | Sulawesi Barat | sulbar | :construction: |
 | Sulawesi Selatan | sulsel | :construction: |
 | Sulawesi Tenggara | sultra | :construction: |
-| Sumatera Barat | sulut | :heavy_check_mark: |
-| Sumatera Selatan | sulut | :heavy_check_mark: |
+| Sumatera Barat | sumbar | :heavy_check_mark: |
+| Sumatera Selatan | sumsel | :heavy_check_mark: |
 | Yogyakarta | diy | :heavy_check_mark: |
 
 ### Catatan
