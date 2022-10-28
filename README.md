@@ -24,23 +24,28 @@ Contoh: jabar@D12345ABC
 | Wilayah | Command | Status |
 | ------- | ------ | ------ |
 | Banten | banten | :heavy_check_mark: |
+| Kalimantan Barat | kalbar | :heavy_check_mark: |
+| Kalimantan Timur | kaltim | :heavy_check_mark: |
+| Kalimantan Utara | kaltara | :heavy_check_mark: |
+| Kepulauan Riau | kepri | :heavy_check_mark: |
+| Jakarta | dki | :construction: |
 | Jambi | jambi | :heavy_check_mark: |
 | Jawa Barat | jabar | :heavy_check_mark: |
-| Yogyakarta | diy | :heavy_check_mark: |
-| Kalimantan Barat | kalbar | :heavy_check_mark: |
-| Sulawesi Tengah | sulteng | :heavy_check_mark: |
-| Sulawesi Barat | sulbar | :construction: |
-| Sulawesi Selatan | sulsel | :construction: |
-| Sulawesi Tenggara | sultra | :construction: |
-| Sulawesi Utara | sulut | :construction: |
-| Jakarta | dki | :construction: |
 | Jawa Tengah | jateng | :heavy_check_mark: |
 | Jawa Timur | jatim | :construction: |
-| Kalimantan Timur | kaltim | :heavy_check_mark: |
+| Lampung | lampung | :heavy_check_mark: |
+| Maluku Utara | malut | :heavy_check_mark: |
 | Nusa Tenggara Barat | ntb | :heavy_check_mark: |
 | Nusa Tenggara Timur | ntb | :construction: |
 | Papua | papua | :heavy_check_mark: |
-| Maluku Utara | malut | :heavy_check_mark: |
+| Sulawesi Tengah | sulteng | :heavy_check_mark: |
+| Sulawesi Utara | sulut | :heavy_check_mark: |
+| Sulawesi Barat | sulbar | :construction: |
+| Sulawesi Selatan | sulsel | :construction: |
+| Sulawesi Tenggara | sultra | :construction: |
+| Sumatera Barat | sulut | :heavy_check_mark: |
+| Sumatera Selatan | sulut | :heavy_check_mark: |
+| Yogyakarta | diy | :heavy_check_mark: |
 
 ### Catatan
 
