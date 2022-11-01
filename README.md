@@ -33,7 +33,7 @@ Contoh: jabar@D12345ABC
 | Jambi | jambi | :heavy_check_mark: |
 | Jawa Barat | jabar | :heavy_check_mark: |
 | Jawa Tengah | jateng | :heavy_check_mark: |
-| Jawa Timur | jatim | :construction: |
+| Jawa Timur | jatim | :heavy_check_mark: |
 | Lampung | lampung | :heavy_check_mark: |
 | Maluku Utara | malut | :heavy_check_mark: |
 | Nusa Tenggara Barat | ntb | :heavy_check_mark: |
