@@ -24,6 +24,7 @@ Contoh: jabar@D12345ABC
 | Wilayah | Command | Status |
 | ------- | ------ | ------ |
 | Banten | banten | :heavy_check_mark: |
+| Bengkulu | bengkulu | :heavy_check_mark: |
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
 | Kalimantan Timur | kaltim | :heavy_check_mark: |
 | Kalimantan Utara | kaltara | :heavy_check_mark: |
