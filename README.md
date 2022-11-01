@@ -27,6 +27,7 @@ Contoh: jabar@D12345ABC
 | Kalimantan Barat | kalbar | :heavy_check_mark: |
 | Kalimantan Timur | kaltim | :heavy_check_mark: |
 | Kalimantan Utara | kaltara | :heavy_check_mark: |
+| Kalimantan Selatan | kalsel | :heavy_check_mark: |
 | Kepulauan Riau | kepri | :heavy_check_mark: |
 | Jakarta | dki | :construction: |
 | Jambi | jambi | :heavy_check_mark: |
